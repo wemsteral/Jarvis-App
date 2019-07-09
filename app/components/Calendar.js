@@ -42,8 +42,10 @@ export default class CalendarPull extends Component {
     function ConvertNumberToTwoDigitString(n) {
       return n > 9 ? "" + n : "0" + n;
     }
+    
     let start = new Date(events[0].startDate);
     let end = new Date(events[0].endDate);
+    
     var eventDetails = {
       eventTitle: events[0].title,
       eventStartTime: `${ConvertNumberToTwoDigitString(
