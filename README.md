@@ -1,3 +1,5 @@
+*For a detailed breakdown of our team's journey, please see the wiki!*
+
 # Jarvis #
 
   This cross-platform phone app uses React Native.js and Expo CLI to provide a personal assistant that will create a daily report using your calendar events, live weather / temperature based on your location, and personalised name and work destination. The daily report can be read aloud to the user, allowing for a convenient hands-free alternative to switching between multiple apps for the same data. This app was produced as our final engineering project at Makers Academy within a timeframe of 9 days.
